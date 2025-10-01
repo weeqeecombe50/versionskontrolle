@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
     console.log('DOM fully loaded and parsed');
     try {
-        console.log('Starting initialization process...');
+        console.log('Initializing application...');
         // additional logic here
     } catch (error) {
-        console.error('Error during initialization:', error);
+        console.error('Initialization error:', error);
     }
 });
