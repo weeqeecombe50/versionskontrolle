@@ -1,4 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Versionskontrolle ist bereit');
-    // weitere Logik hier hinzufügen
+    console.log('Version control is ready');
+    // additional logic here
 });
